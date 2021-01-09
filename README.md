@@ -1,6 +1,8 @@
 # Debounce Rotary Encoder with ATtiny13A
 
-## Main proconditions
+I'm tired about bouncing of rotary encoders in my projects on Raspberry Pis. Well, oncy I was so angry that I've used ESP8266 to attach interrups for every pins of encoders. This is complete overkill. So I start learning and found that cheapest tiny13 can be used to debounce it and convert into simple left or right signals. Love it that way.
+
+## Main preconditions
 
 [How to use ATtiny13A in Arduino IDE](https://github.com/MCUdude/MicroCore)
 
