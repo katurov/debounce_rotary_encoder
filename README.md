@@ -24,3 +24,7 @@ Here is main scheme, also described in program' listing, but here are commons:
 * ATtiny13A pin 5 (PB0) to DT pin of Encoder
 * ATtiny13A pin 2 (PB3) to pin of MCU which waits for signal about rotation on Right
 * ATtiny13A pin 3 (PB4) to pin of MCU which waits for signal about rotation on Left
+
+## Small video How it works
+
+![https://github.com/katurov/debounce_rotary_encoder/blob/main/how_it_works.gif?raw=true]
