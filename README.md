@@ -27,4 +27,4 @@ Here is main scheme, also described in program' listing, but here are commons:
 
 ## Small video How it works
 
-![https://github.com/katurov/debounce_rotary_encoder/blob/main/how_it_works.gif?raw=true]
+![how it works](https://github.com/katurov/debounce_rotary_encoder/raw/main/how_it_works.gif)
